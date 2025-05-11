@@ -1,4 +1,6 @@
-The Tinder Clone app deploy at: https://tinder-clone-icuq.onrender.com
+The Tinder Clone app
+## 🌐 Live Demo
+[Click here to view the live app](https://tinder-clone-icuq.onrender.com)
 
 - 🔐 Authentication System with JWT
 - 🛡️ Route Protection
