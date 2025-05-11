@@ -1,4 +1,4 @@
-The Tinder Clone app
+The Tinder Clone app deploy at: https://tinder-clone-icuq.onrender.com
 
 - 🔐 Authentication System with JWT
 - 🛡️ Route Protection
@@ -28,16 +28,13 @@ CLOUDINARY_CLOUD_NAME=<your_cloudinary_cloud_name>
 
 ```
 
-### Run this app locally
+### 🚀 How to Run the Project
 
-- Set `NODE_ENV=production` and build the app 👇
+## Server Setup (Root Directory)
+npm install
+npm run dev
 
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm run start
-```
+## Client Setup
+cd client
+npm install
+npm run dev
